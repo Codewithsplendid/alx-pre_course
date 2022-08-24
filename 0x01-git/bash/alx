@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX school is so cool !"
 =======
 echo "ALX School"
 >>>>>>> update_script
+=======
+echo "ALX"
+>>>>>>> parent of 9c88515 (My personal work)
